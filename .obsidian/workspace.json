@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "9c12fabeb3da3299",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5751c6af4c9cf19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5983eae5578c229",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b99dedb58c39db9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8186acaee05aef9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55b429bf9f43acba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9631ab68f22d7c94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68359959163ecbdc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "37637c99ae7edcf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "770b8b2ae0f98d8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e9d3beb0914cfb2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3312f2683db54d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc4dd86546186521",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eca95b5e88d393a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "55b429bf9f43acba",
+  "lastOpenFiles": [
+    "English/笔记/基础知识/语言结构.md",
+    "English/笔记/基础知识/语法.md",
+    "计算机知识/笔记/工具/Git.md",
+    "English/笔记/基础知识",
+    "English/笔记/THIS IS US.md",
+    "English/笔记/发音/发音.md",
+    "English/笔记/发音/变音.md",
+    "English/笔记/发展历史.md",
+    "English/笔记/发音",
+    "English/Index.md"
+  ]
+}

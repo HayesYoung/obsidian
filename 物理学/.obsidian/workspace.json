@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "541a42f1787b8093",
+    "type": "split",
+    "children": [
+      {
+        "id": "c61b1ddaa54550d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f645a5b95a266ab4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d57eec296290a5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dd05bfc40e8cb45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6140831603e11d80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f377976590930863",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "acc7f82eac979f8c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c280e9787f107c8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c67e2ff8570da7af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad149c79707666a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afc82241b8566d97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2e949b4a3a3b9a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18a001423b4ec490",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f645a5b95a266ab4",
+  "lastOpenFiles": [
+    "2023-06-10.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "Index.md",
+    "笔记/热力学.md",
+    "笔记/流体力学.md",
+    "笔记/经典力学.md",
+    "图片",
+    "附件",
+    "笔记"
+  ]
+}

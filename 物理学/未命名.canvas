@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ce3cd8b1dfa1a7b0","x":137,"y":-198,"width":400,"height":400,"type":"file","file":"笔记/热力学.md"},
+		{"id":"b225f9b336c1bea5","x":-125,"y":-30,"width":250,"height":60,"color":"2","type":"text","text":""}
+	],
+	"edges":[
+		{"id":"db79d2fe7e7c7eeb","fromNode":"b225f9b336c1bea5","fromSide":"right","toNode":"ce3cd8b1dfa1a7b0","toSide":"left"}
+	]
+}

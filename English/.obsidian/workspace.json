@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "12d9891e2165cf60",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc7703d532010735",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c287cf6c63734b51",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a64bbe970e6369b",
+    "type": "split",
+    "children": [
+      {
+        "id": "942556046c699c49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ffde33965025476",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8d4770024037a46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1bd90f466a7a4d24",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cfba2e854215fcea",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b109d2f482baea9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82b0ccfa7da8c622",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "笔记/词汇/词根词缀.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60668939135fed56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "笔记/词汇/词根词缀.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12007caac24002bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c2a6b1d98cba3429",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "笔记/词汇/词根词缀.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9ffde33965025476",
+  "lastOpenFiles": [
+    "笔记/词汇/反义词和近义词.md",
+    "笔记/词汇/词根词缀.md",
+    "笔记/发音/重音.md",
+    "笔记/基础词汇.md",
+    "笔记/发展历史.md",
+    "笔记/词汇",
+    "Index.md",
+    "笔记/发音/连读.md",
+    "笔记/发音/语调.md",
+    "笔记/发音/元音.md",
+    "笔记/发音/辅音.md",
+    "笔记/基础知识/语言结构.md",
+    "笔记/基础知识/语法.md",
+    "笔记/变音.md",
+    "笔记/发音.md",
+    "笔记",
+    "附件",
+    "index",
+    "index"
+  ]
+}

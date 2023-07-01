@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "aa734334027ea23d",
+    "type": "split",
+    "children": [
+      {
+        "id": "da99994be9012ac2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b042237959dbffe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5618a738d902f1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9c57fad7895548e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff1d10e4bf5ed70c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09f085ec18ff3c71",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54a831ab96821ebd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97ca8d27b2c3146d",
+    "type": "split",
+    "children": [
+      {
+        "id": "95eb7f39e2a602e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08def2e9543afe4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a78bb0e60e1a7cd5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2264437e9008ee1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f4bca36e40a28003",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b042237959dbffe9",
+  "lastOpenFiles": [
+    "笔记/工具/Git.md",
+    "笔记/工具/Github.md",
+    "图片/gitbranchvv20230630191328.png",
+    "Index.md",
+    "图片",
+    "附件/git.drawio.png",
+    "附件/git.drawio (1).png",
+    "附件/git.drawio (2).png",
+    "附件/git.drawio 1.png",
+    "笔记/电子/数字电子学.md",
+    "笔记/电子/模拟电子学.md",
+    "笔记/电子/微型计算机原理.md",
+    "笔记/电子/电路原理.md",
+    "笔记/电子",
+    "附件/git.drawio (3).png",
+    "笔记/计算机组成原理.md",
+    "笔记/工具",
+    "笔记/前端/React.md",
+    "笔记/前端/React Hooks.md",
+    "笔记/计算机网络.md",
+    "笔记/X-86 汇编原理.md",
+    "笔记/Linux.md",
+    "笔记/数据结构.md",
+    "笔记/Mysql.md",
+    "笔记/Http 和 Https.md",
+    "笔记/语言程序设计/C 语言.md",
+    "笔记/语言程序设计",
+    "笔记/前端",
+    "笔记/语言程序设计/C++语言.md",
+    "笔记/软件工程.md",
+    "笔记/计算机系统体系.md",
+    "笔记/操作系统.md",
+    "图片",
+    "附件",
+    "笔记"
+  ]
+}
