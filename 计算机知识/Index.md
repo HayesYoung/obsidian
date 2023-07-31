@@ -17,5 +17,10 @@
 
 
 
-git remote set-url origin https://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@github.com/HayesYoung/git.git
+
+技术写作的核心流程包括：分析（用户和产品）→设计（考虑受众和方法）→开发→测试。
+
+git remote set-url origin https://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@github.com/HayesYoung/obsidian.git
 github token:  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
+
+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

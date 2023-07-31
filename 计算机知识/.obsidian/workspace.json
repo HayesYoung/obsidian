@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "笔记/前端/HTML5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "笔记/前端/HTML5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "笔记/前端/HTML5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "笔记/前端/HTML5.md"
               }
             }
           }
@@ -148,25 +148,29 @@
   },
   "active": "b042237959dbffe9",
   "lastOpenFiles": [
+    "笔记/前端/React Hooks.md",
+    "笔记/前端/CSS3.md",
+    "笔记/前端/HTML5.md",
+    "笔记/前端/React v18 学习笔记.md",
+    "笔记/前端/React Router.md",
+    "笔记/前端/Vue 3.0.md",
+    "笔记/前端/WebPack.md",
+    "笔记/西蒙斯学习法.md",
+    "Index.md",
     "笔记/工具/Git.md",
     "笔记/工具/Github.md",
-    "图片/gitbranchvv20230630191328.png",
-    "Index.md",
-    "图片",
-    "附件/git.drawio.png",
-    "附件/git.drawio (1).png",
-    "附件/git.drawio (2).png",
-    "附件/git.drawio 1.png",
     "笔记/电子/数字电子学.md",
     "笔记/电子/模拟电子学.md",
     "笔记/电子/微型计算机原理.md",
     "笔记/电子/电路原理.md",
     "笔记/电子",
+    "附件/git.drawio 1.png",
     "附件/git.drawio (3).png",
+    "附件/git.drawio (2).png",
+    "附件/git.drawio (1).png",
+    "附件/git.drawio.png",
     "笔记/计算机组成原理.md",
     "笔记/工具",
-    "笔记/前端/React.md",
-    "笔记/前端/React Hooks.md",
     "笔记/计算机网络.md",
     "笔记/X-86 汇编原理.md",
     "笔记/Linux.md",
@@ -179,7 +183,6 @@
     "笔记/语言程序设计/C++语言.md",
     "笔记/软件工程.md",
     "笔记/计算机系统体系.md",
-    "笔记/操作系统.md",
     "图片",
     "附件",
     "笔记"
