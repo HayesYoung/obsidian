@@ -22,7 +22,7 @@ LaTeX是一种基于TeX（1982年德国计算机科学家 Donald Knuth 为排版
 ```
 
 - 多行注释
-使用 \iffalse 和 \fi 命令或者调用包
+使用 `\iffalse` 和 `\fi` 命令或者调用包
 ```latex
 \iffalse
 hello world！
