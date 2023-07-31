@@ -16,7 +16,7 @@ LaTeX是一种基于TeX（1982年德国计算机科学家 Donald Knuth 为排版
 - 自动生成目录和索引
 
 ### 1.2 注释
-- 单行注释
+- 单行注释 使用 `%` 命令
 ```latex
 % hello world！
 ```
@@ -82,10 +82,9 @@ LaTex的源代码分为两个部分：导言区 和 正文区
 
 \maketitle % 显示文档信息，上面的标题作者时间等
 
-
 正文显示区域
 
-\hello  % 上面的设置的自定义，会输出 hello, World!
+\hello  % 上面的设置的自定义命令，会输出 hello, World!
 
 
 \end{document}
@@ -111,7 +110,7 @@ LaTex的源代码分为两个部分：导言区 和 正文区
 
 ```laTex
 % A4 纸张大小，12号字体
-\documentclass[12pt, a4paper]{article}
+\documentclass[a4paper, 12pt]{article}
 ```
 
 - `class` ：必选参数：只有五种，其他宏包的也是基于这五种
@@ -120,7 +119,7 @@ LaTex的源代码分为两个部分：导言区 和 正文区
 2. `report`: 适用于较长的报告、学位论文等。
 3. `book`: 用于书籍、综合性的长篇文档。
 4. `letter`: 用于写信。
-5. `beamer`: 用于制作演示文稿（幻灯片）。
+5. `beamer`: 用于制作幻灯片。
 ```
 
 
