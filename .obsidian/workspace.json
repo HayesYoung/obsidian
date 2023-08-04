@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机知识/笔记/工具/LaTex.md",
+                "file": "Math/笔记/Mid Math.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机知识/笔记/工具/LaTex.md",
+                "file": "Math/笔记/Mid Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机知识/笔记/工具/LaTex.md",
+                "file": "Math/笔记/Mid Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机知识/笔记/工具/LaTex.md"
+                "file": "Math/笔记/Mid Math.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "c5983eae5578c229",
   "lastOpenFiles": [
-    "class1.pdf.md",
     "计算机知识/笔记/工具/LaTex.md",
+    "Math/笔记/Mid Math.md",
+    "Math/笔记/未命名.md",
+    "class1.pdf.md",
     "English/笔记/基础知识/语言结构.md",
     "English/笔记/基础知识/语法.md",
     "计算机知识/笔记/工具/Git.md",

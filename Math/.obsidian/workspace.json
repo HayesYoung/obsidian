@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/数的概念.md",
+                "file": "笔记/Mid Math.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/数的概念.md",
+                "file": "笔记/Mid Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/数的概念.md",
+                "file": "笔记/Mid Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/数的概念.md"
+                "file": "笔记/Mid Math.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   "active": "6a6cad52febc4e87",
   "lastOpenFiles": [
     "笔记/数的概念.md",
+    "笔记/Mid Math.md",
     "笔记/方程.md",
-    "未命名.canvas",
     "笔记/函数.md",
+    "未命名.canvas",
     "Index.md",
     "图片/一份好笔记.png",
     "图片",
