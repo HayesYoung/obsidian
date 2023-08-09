@@ -8,6 +8,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "34661e1050c36932",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Math/笔记/Mid Math/图片/1.1 实数.png"
+              }
+            }
+          },
+          {
             "id": "56f2f7d42e4967c3",
             "type": "leaf",
             "state": {
@@ -18,18 +28,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "34661e1050c36932",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Math/笔记/Mid Math/图片/1.1 实数.png"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
