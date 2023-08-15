@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/笔记/Mid Math/Mid Math.md",
+                "file": "English/笔记/基础知识/词性.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/笔记/Mid Math/Mid Math.md",
+                "file": "English/笔记/基础知识/词性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/笔记/Mid Math/Mid Math.md",
+                "file": "English/笔记/基础知识/词性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/笔记/Mid Math/Mid Math.md"
+                "file": "English/笔记/基础知识/词性.md"
               }
             }
           }
@@ -157,13 +157,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "55b429bf9f43acba",
+  "active": "56f2f7d42e4967c3",
   "lastOpenFiles": [
+    "English/笔记/基础知识/语法.md",
+    "English/笔记/基础知识/词性.md",
+    "English/笔记/基础知识/语言结构.md",
+    "English/笔记/发音/辅音.md",
+    "Math/笔记/Mid Math/图片/1.1 实数.png",
     "Math/笔记/High Math/High Math.md",
     "Math/笔记/High Math/图片",
     "Math/笔记/Mid Math/Mid Math.md",
     "Math/笔记/High Math",
-    "Math/笔记/Mid Math/图片/1.1 实数.png",
     "Math/笔记/Mid Math/图片",
     "Math/图片/一份好笔记.png",
     "Math/笔记/Mid Math",
@@ -172,8 +176,6 @@
     "计算机知识/笔记/工具/LaTex.md",
     "Math/笔记/未命名.md",
     "class1.pdf.md",
-    "English/笔记/基础知识/语言结构.md",
-    "English/笔记/基础知识/语法.md",
     "计算机知识/笔记/工具/Git.md",
     "English/笔记/基础知识",
     "English/笔记/THIS IS US.md",
