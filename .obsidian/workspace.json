@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/笔记/基础知识/词性.md",
+                "file": "计算机知识/笔记/工具/MarkDown.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/笔记/基础知识/词性.md",
+                "file": "计算机知识/笔记/工具/MarkDown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/笔记/基础知识/词性.md",
+                "file": "计算机知识/笔记/工具/MarkDown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/笔记/基础知识/词性.md"
+                "file": "计算机知识/笔记/工具/MarkDown.md"
               }
             }
           }
@@ -159,8 +159,9 @@
   },
   "active": "56f2f7d42e4967c3",
   "lastOpenFiles": [
-    "English/笔记/基础知识/语法.md",
     "English/笔记/基础知识/词性.md",
+    "计算机知识/笔记/工具/MarkDown.md",
+    "English/笔记/基础知识/语法.md",
     "English/笔记/基础知识/语言结构.md",
     "English/笔记/发音/辅音.md",
     "Math/笔记/Mid Math/图片/1.1 实数.png",
