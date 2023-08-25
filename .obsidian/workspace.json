@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0750c54392eb721a",
+        "id": "6123eacafbc9206e",
         "type": "tabs",
         "children": [
           {
-            "id": "34661e1050c36932",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Math/笔记/Mid Math/图片/1.1 实数.png"
-              }
-            }
-          },
-          {
-            "id": "56f2f7d42e4967c3",
+            "id": "d8bf8079a442a646",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机知识/笔记/工具/MarkDown.md",
+                "file": "计算机知识/笔记/工具/md/MarkDown.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机知识/笔记/工具/MarkDown.md",
+                "file": "计算机知识/笔记/工具/md/MarkDown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机知识/笔记/工具/MarkDown.md",
+                "file": "计算机知识/笔记/工具/md/MarkDown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机知识/笔记/工具/MarkDown.md"
+                "file": "计算机知识/笔记/工具/md/MarkDown.md"
               }
             }
           }
@@ -157,20 +146,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "56f2f7d42e4967c3",
+  "active": "d8bf8079a442a646",
   "lastOpenFiles": [
+    "计算机知识/笔记/工具/md/photo/title.png",
+    "计算机知识/笔记/工具/md/MarkDown.md",
+    "计算机知识/笔记/工具/md/photo/Markdown-mark.svg.png",
+    "计算机知识/笔记/工具/md/photo/math.png",
+    "计算机知识/笔记/工具/md/photo/task.png",
+    "计算机知识/笔记/工具/md/photo/table.png",
+    "计算机知识/笔记/工具/md/photo/loadingPhoto.png",
+    "计算机知识/笔记/工具/md/photo/link.png",
+    "计算机知识/笔记/工具/md/photo/code.png",
+    "计算机知识/笔记/工具/md/photo/line.png",
+    "计算机知识/笔记/工具/md/photo/font.png",
+    "计算机知识/笔记/工具/md/photo/quote.png",
+    "计算机知识/笔记/工具/md/未命名.md",
+    "计算机知识/笔记/工具/md/photo",
+    "计算机知识/笔记/信息论.md",
+    "计算机知识/笔记/Mysql.md",
+    "计算机知识/笔记/语言程序设计/C 语言.md",
+    "计算机知识/笔记/工具/md",
     "English/笔记/基础知识/词性.md",
-    "计算机知识/笔记/工具/MarkDown.md",
     "English/笔记/基础知识/语法.md",
     "English/笔记/基础知识/语言结构.md",
     "English/笔记/发音/辅音.md",
-    "Math/笔记/Mid Math/图片/1.1 实数.png",
     "Math/笔记/High Math/High Math.md",
     "Math/笔记/High Math/图片",
     "Math/笔记/Mid Math/Mid Math.md",
     "Math/笔记/High Math",
     "Math/笔记/Mid Math/图片",
-    "Math/图片/一份好笔记.png",
     "Math/笔记/Mid Math",
     "Math/未命名.canvas",
     "Math/笔记/数的概念.md",
