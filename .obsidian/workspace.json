@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机知识/笔记/电子/电路基础.md",
+                "file": "Math/笔记/Mid Math/Mid Math.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机知识/笔记/电子/电路基础.md",
+                "file": "Math/笔记/Mid Math/Mid Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机知识/笔记/电子/电路基础.md",
+                "file": "Math/笔记/Mid Math/Mid Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机知识/笔记/电子/电路基础.md"
+                "file": "Math/笔记/Mid Math/Mid Math.md"
               }
             }
           }
@@ -148,11 +148,16 @@
   },
   "active": "e31ee028f1806e1d",
   "lastOpenFiles": [
+    "计算机知识/笔记/语言程序设计/C/C 语言.md",
+    "计算机知识/笔记/语言程序设计/C++/C++语言.md",
+    "计算机知识/笔记/语言程序设计/C",
+    "计算机知识/笔记/语言程序设计/C++",
+    "计算机知识/笔记/电子/微型计算机原理.md",
+    "计算机知识/笔记/电子/数电.md",
+    "计算机知识/笔记/电子/模电.md",
+    "计算机知识/笔记/电子/电路基础.md",
     "Math/笔记/Mid Math/图片/实数 R.png",
     "计算机知识/笔记/电子/电路原理.md",
-    "计算机知识/笔记/电子/电路基础.md",
-    "计算机知识/笔记/电子/模电.md",
-    "计算机知识/笔记/电子/数电.md",
     "计算机知识/Index.md",
     "计算机知识/笔记/工具/Git.md",
     "计算机知识/笔记/工具/md/MarkDown.md",
@@ -166,12 +171,10 @@
     "计算机知识/笔记/工具/md/photo/link.png",
     "计算机知识/笔记/工具/md/photo/code.png",
     "计算机知识/笔记/工具/md/photo/line.png",
-    "计算机知识/笔记/工具/md/photo/font.png",
     "计算机知识/笔记/工具/md/未命名.md",
     "计算机知识/笔记/工具/md/photo",
     "计算机知识/笔记/信息论.md",
     "计算机知识/笔记/Mysql.md",
-    "计算机知识/笔记/语言程序设计/C 语言.md",
     "计算机知识/笔记/工具/md",
     "English/笔记/基础知识/词性.md",
     "English/笔记/基础知识/语法.md",
@@ -192,7 +195,6 @@
     "English/笔记/THIS IS US.md",
     "English/笔记/发音/发音.md",
     "English/笔记/发音/变音.md",
-    "English/笔记/发展历史.md",
     "English/笔记/发音"
   ]
 }
